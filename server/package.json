@@ -1,0 +1,13 @@
+{
+  "name": "srg-server",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.14",
+    "cors": "^2.8.5",
+    "mongodb": "^6.8.0"
+  }
+}

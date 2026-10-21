@@ -1,0 +1,62 @@
+Terms and Conditions
+
+Game: {game}
+Developer: Squad Round Games ("we", "us", "our")
+
+By downloading, installing, or playing {game} ("the Game"), you agree to these Terms and Conditions. If you do not agree, please do not download or play the Game.
+
+1. License
+
+We grant you a personal, non-exclusive, non-transferable, revocable license to install and play the Game on your own devices for non-commercial purposes. The Game is licensed, not sold. You do not own the Game or any of its content.
+
+2. Restrictions
+
+You agree not to: copy, modify, reverse engineer, decompile, or extract assets from the Game; sell, rent, lease, sublicense, or redistribute the Game; use cheats, hacks, or tools that tamper with the Game or its services; or use the Game for any unlawful purpose.
+
+3. Permissions the Game Uses
+
+The Game may use internet access and microphone access. [ADMIN: edit this section in the Admin panel to state exactly what each permission is used for, and whether any audio leaves the device or is stored.] You can turn off either permission in your device settings at any time. Some features may stop working if you do.
+
+4. Privacy
+
+We collect only the minimum information needed to run the Game and this website, such as your login email, purchase records and promo-code usage. We do not sell your personal data. Contact us at squadroundgames@gmail.com with any privacy questions.
+
+5. No Refunds
+
+Before purchasing, we encourage you to watch the gameplay videos and trailers on our website so you know what to expect. Because the Game is a digital product, all sales are final and we do not offer returns or refunds, except where a refund is required by law or by the platform's own policy, or in these cases within 7 days via support: a duplicate charge, payment taken but the game not delivered, or an unfixable fault.
+
+6. Content and Age Notice
+
+The Game is a horror game and contains frightening themes and imagery that may be unsettling to some players. [ADMIN: add your age recommendation here.] Please play at your own discretion.
+
+7. Intellectual Property
+
+All content in the Game, including code, artwork, story, text, music, sound, and design, belongs to Squad Round Games or its licensors and is protected by copyright and other laws. Made with Unreal Engine. Unreal is a trademark of Epic Games, Inc.
+
+8. Updates and Changes to the Game
+
+We may update, change, or discontinue parts of the Game at any time to fix bugs, improve gameplay, or maintain compatibility.
+
+9. Disclaimer of Warranty
+
+The Game is provided "as is" and "as available", without warranties of any kind. We do not guarantee that it will be error-free, uninterrupted, or work on every device.
+
+10. Limitation of Liability
+
+To the fullest extent permitted by law, Squad Round Games is not liable for any indirect, incidental, or consequential damages, including loss of data or device issues, arising from your use of the Game.
+
+11. Termination
+
+We may suspend or end your access to the Game if you violate these Terms. You may stop using the Game at any time by uninstalling it.
+
+12. Changes to These Terms
+
+We may update these Terms from time to time. Continued use of the Game after changes means you accept the updated Terms.
+
+13. Governing Law
+
+These Terms are governed by the laws of India. [ADMIN: add your state and the city whose courts handle disputes.]
+
+14. Contact
+
+Questions? Contact us at: squadroundgames@gmail.com

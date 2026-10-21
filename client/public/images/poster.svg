@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200">
+  <!-- DEV PLACEHOLDER POSTER ART — replace with final game art via Admin CMS -->
+  <defs>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2.2" fill="rgba(0,0,0,0.10)"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="1200" fill="#2b80d9"/>
+  <rect width="800" height="1200" fill="url(#dots)"/>
+  <polygon points="0,0 800,0 800,380 0,620" fill="#ffd900"/>
+  <polygon points="0,620 800,380 800,560 0,800" fill="#d92b2b"/>
+  <g transform="translate(400,240) rotate(-6)">
+    <text x="0" y="0" text-anchor="middle" font-family="Impact, sans-serif" font-size="110" fill="#111" font-style="italic">PRIDE:</text>
+    <text x="0" y="120" text-anchor="middle" font-family="Impact, sans-serif" font-size="92" fill="#111" font-style="italic">THE LAST</text>
+    <text x="0" y="230" text-anchor="middle" font-family="Impact, sans-serif" font-size="120" fill="#fefae8" stroke="#111" stroke-width="6" font-style="italic">SENTINEL</text>
+  </g>
+  <g transform="translate(400,760)">
+    <polygon points="0,-150 40,-45 150,-40 60,30 95,140 0,75 -95,140 -60,30 -150,-40 -40,-45"
+             fill="#ffd900" stroke="#111" stroke-width="8"/>
+    <text x="0" y="18" text-anchor="middle" font-family="Impact, sans-serif" font-size="52" fill="#d92b2b" font-style="italic">KAPOW!</text>
+  </g>
+  <g transform="translate(400,1020)">
+    <text x="0" y="0" text-anchor="middle" font-family="Comic Sans MS, sans-serif" font-size="30" fill="#fff">SQUAD ROUND GAMES</text>
+    <text x="0" y="42" text-anchor="middle" font-family="Comic Sans MS, sans-serif" font-size="22" fill="#fff" opacity="0.85">DEV PLACEHOLDER ART — replace via Admin CMS</text>
+  </g>
+  <g stroke="#111" stroke-width="5" fill="none">
+    <path d="M60,900 L220,860"/><path d="M580,860 L740,900"/>
+    <path d="M60,940 L220,900"/><path d="M580,900 L740,940"/>
+  </g>
+</svg>
